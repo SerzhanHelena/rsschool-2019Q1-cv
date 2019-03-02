@@ -1,8 +1,8 @@
 
 ## Serzhan Elena
 
-**phone:** + 375(29)783-94-73
-**e-mail:** serzhan.helen@gmail.com
+**phone:** + 375(29)783-94-73<br>
+**e-mail:** serzhan.helen@gmail.com<br>
 **linkedin:** [linkedin](www.linkedin.com/in/elena-serzhan-510ba0141)
 
 <p> In the context of this course, I would like to consolidate the existing knowledge in HTML, CSS, Git, JavaScript, Angular2+ and fill the gaps in these areas, make new acquaintances and get valuable experience applied in practice. I want to unlock my potential and be useful. </p>
@@ -18,7 +18,7 @@
 
 
 ### Experience:
-Project for HR (using Angular):fire:: [https://github.com/SerzhanHelena/HR-UP](https://github.com/SerzhanHelena/HR-UP)
+Project for HR (using Angular): [https://github.com/SerzhanHelena/HR-UP](https://github.com/SerzhanHelena/HR-UP)
 
 ### Courses:
 October 2018 - January 2019 - Mifort courses (Angular technology)
