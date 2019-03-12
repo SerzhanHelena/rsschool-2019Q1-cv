@@ -2,7 +2,7 @@
 *:before,
 *:after {
     box-sizing: border-box;
-    font-family: 'PoppinsBlack';
+    font-family: 'PoppinsRegular';
     margin: 0;
     padding: 0;
 }
@@ -50,8 +50,8 @@ img {
      color: black;
  }
 
-a :hover {
-    color: yellow;
+a:hover {
+    color:#a7a779;
 }
 
 .container {
