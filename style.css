@@ -85,12 +85,6 @@ h3:before {
     right: -14px;
  }
 
- footer {
-     width: 100%;
-     text-align: center;
-     font-size: 18px;
- }
-
 .set-size {
     font-size: 7em;
     display: flex;
@@ -271,3 +265,11 @@ h3:before {
 .skill-item:last-child {
     margin: 0;
 }
+
+footer {
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+    background: gainsboro;
+    margin-top: 30px;
+ }
