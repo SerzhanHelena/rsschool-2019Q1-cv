@@ -256,10 +256,11 @@ h3:before {
 
 .skill-titles {
     display: flex;
+    justify-content: center;
 }
 
 .skill-item {
-    margin: 0 55px;
+    margin: 0 50px;
 }
 
 .skill-item:last-child {
